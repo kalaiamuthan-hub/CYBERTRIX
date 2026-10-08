@@ -1,0 +1,4 @@
+# Vercel Ignore
+scratch/
+.vscode/
+*.log
